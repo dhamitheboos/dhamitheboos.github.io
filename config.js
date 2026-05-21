@@ -2,7 +2,7 @@
 window.ADS_ENABLED = true; // set false to disable ads globally
 
 // ================= CONFIG / API CALLS =================
-const apiUrl = "https://api.npoint.io/15812aaae7d99303c10f";
+const apiUrl = "https://api.npoint.io/cd39e40fccf6a8304534";
 let companyInfo = {};
 
 // Fetch company + games data
